@@ -1,0 +1,7 @@
+{
+  "name": "VisionMix AI",
+  "description": "A high-end image generation and editing suite that allows users to create stunning visuals from scratch or seamlessly merge new elements into existing images using the power of Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
